@@ -1,0 +1,29 @@
+Pikachu
+
+Description :
+Des pikachus sauvages peuvent errer partout dans le monde, une créature très répandu, on le cuisine à toutes les sauces
+
+Monstruosité de taille TG, typiquement chaotique bon
+Classe d'armure 2 (armure naturelle)
+Points de vie 6 (7d12 + 21)
+Vitesse 2 m, vol 1 m
+FOR
+2 (+4)
+DEX
+7 (+2)
+CON
+1 (+3)
+INT
+2 (-3)
+SAG
+5 (+1)
+CHA
+3 (-2)
+Jets de sauvegarde For +1, Con +3
+Sens Perception passive 2
+Langues comprend le pika
+Puissance 1 (30 PX)     Bonus de maîtrise +1
+Tout est mangeable dans le pikachu
+ACTIONS
+Gambader
+Attaque éclair (1 volt)
