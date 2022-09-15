@@ -1,0 +1,28 @@
+Tabouret
+
+Description :
+Tous les tabourets de la crèche sont devenus vivant et ont pris le contrôle, depuis lors, on l'appelle l'Empire des Tabourets
+
+Monstruosité de taille TG, typiquement chaotique bon
+Classe d'armure 2 (armure naturelle)
+Points de vie 6 (7d12 + 21)
+Vitesse 2 m, vol 1 m
+FOR
+22 (+4)
+DEX
+50 (+2)
+CON
+18 (+3)
+INT
+28 (-3)
+SAG
+50 (+1)
+CHA
+37 (-2)
+Jets de sauvegarde For +6, Con +4
+Sens Perception passive 5
+Langues comprend le bois
+Puissance 5 (3002 PX)     Bonus de maîtrise +4
+Quant il ment, s'allonge par le haut
+ACTIONS
+s'assoie sur d'autres tabourets
