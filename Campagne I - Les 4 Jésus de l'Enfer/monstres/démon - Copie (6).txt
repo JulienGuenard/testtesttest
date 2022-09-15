@@ -1,0 +1,34 @@
+Démon
+
+Description :
+Les démons sont en fait gentils, rouge, avec des cornes, et s'appellent tous Jésus.
+
+Monstruosité de taille TG, typiquement neutre mauvais
+Classe d'armure 10 (armure naturelle)
+Points de vie 666 (7d12 + 21)
+Vitesse 12 m, vol 13 m
+FOR
+22 (+4)
+DEX
+17 (+2)
+CON
+18 (+3)
+INT
+12 (-3)
+SAG
+15 (+1)
+CHA
+9 (-2)
+Jets de sauvegarde For +8, Con +2
+Immunités aux états booléennes
+Sens Perception passive 2
+Langues comprend le démonique et le langage des signes
+Puissance 12 (3000 PX)     Bonus de maîtrise +4
+Charismatique
+Vol
+ACTIONS
+Attaques quadruple.
+Faucher.
+Queue.
+Crachat de sang.
+Éructation de sang (Recharge 4-6).
